@@ -1,10 +1,22 @@
-{"Skills1_aft_QA_course": "Basic theory(What is testing, bug reports, documentation, types, methods, testing areas, etc.)",
-"Skills2_aft_QA_course": "knowledge of client-server architecture",
-"Skills3_aft_QA_course": "API testing via Postman(JS, API autotests)",
-"Skills4_aft_QA_course": "Reading logs from an external server.",
-"Skills5_aft_QA_course": "Sniffing http web traffic with Charles and Fiddler",
-"Skills6_aft_QA_course": "Dev Tools of web browsers(Google Chrome, FireFox).",
-"Skills7_aft_QA_course": "Mobile Testing + peculiarities iOS, Android, Guidelines",
-"Skills8_aft_QA_course": "Command line(terminal)Linux",
-"Skills9_aft_QA_course": "SQL Basics",
-"Skills10_aft_QA_course": "Python.(Learning the basics. Creating a client-server application)"}
+{"soft_skills" : {
+        "sof_sk_1": "Ability to negotiate/Communication skills",
+        "sof_sk_2": "Teamwork",
+        "sof_sk_3": "stress resistance",
+        "sof_sk_4": "Analitical skills",
+        "sof_sk_5": "Attentiveness",
+        "sof_sk_6": "Self-organization or time management",
+        "sof_sk_7": "Focus on quality"
+}, 
+"hard_skills": {
+        "har_sk_1": "Basic theory(What is testing, bug reports, documentation, types, methods, testing areas, etc.)",
+        "har_sk_2": "knowledge of client-server architecture",
+        "har_sk_3": "API testing via Postman(JS, API autotests)",
+        "har_sk_4": "Reading logs from an external server.",
+        "har_sk_5": "Sniffing http web traffic with Charles and Fiddler",
+        "har_sk_6": "Dev Tools of web browsers(Google Chrome, FireFox).",
+        "har_sk_7": "Mobile Testing + peculiarities iOS, Android, Guidelines",
+        "har_sk_8": "Command line(terminal)Linux",
+        "har_sk_9": "SQL Basics",
+        "har_sk_10": "Python.(Learning the basics. Creating a client-server application)"
+    }
+}
